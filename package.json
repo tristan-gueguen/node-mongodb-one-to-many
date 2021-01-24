@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-mongoose-one-to-many",
+  "version": "1.0.0",
+  "description": "Example of one-to-many relationships with mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "mongoose",
+    "mongodb",
+    "one-to-many"
+  ],
+  "author": "tristan-gueguen",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.11.13"
+  }
+}
